@@ -3,7 +3,8 @@ A collection of tools to facilitate holding regular mocks with feedback and atte
 
 ## Current offerings:
 -> assigner.py: Code that lets you take in debater preferences for mock timings and automatically allocates them. (Note: requires a handmade engagement score on the basis of which debaters are given preference)
--> adjes.py: Code that allows you to test, score and rank adjudicators.
+
+-> adj-test.py: Code that allows you to test, score and rank adjudicators.
 
 ## Future plan:
 1. Allow data pipeline from google form to above-mentioned allocation
